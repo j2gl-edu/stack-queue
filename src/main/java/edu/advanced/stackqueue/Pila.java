@@ -34,6 +34,7 @@ public class Pila {
             int valor = inicio.getDato();
             // redirecciona el inicio al elemento siguiente
             inicio = inicio.getLink();
+            tamanio--;
             return valor;
         } else {
             // devuelve un valor que identifique un error
