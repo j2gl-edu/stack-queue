@@ -3,6 +3,7 @@ package edu.advanced.stackqueue;
 public class MainPila {
 
     public static void main(String[] args) {
+        // Ejemplo de uso de la Pila
         Pila p = new Pila();
         p.push(1);
         p.push(10);
@@ -16,4 +17,3 @@ public class MainPila {
         System.out.println("vacia " + p.estaVacia());
     }
 }
-  
