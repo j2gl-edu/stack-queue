@@ -14,5 +14,6 @@ mvn clean package
 
 ## Run
 ```sh
+java -cp target/stack-queue-1.0.0.jar edu.advanced.stackqueue.MainPila
 java -jar target/stack-queue-1.0.0.jar
 ```

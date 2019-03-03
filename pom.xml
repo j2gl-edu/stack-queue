@@ -17,7 +17,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>edu.advanced.stackqueue.Main</mainClass>
+                            <mainClass>edu.advanced.stackqueue.MainPila</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
