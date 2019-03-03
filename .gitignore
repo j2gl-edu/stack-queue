@@ -16,3 +16,8 @@ target/
 
 # Visual Studio
 .vscode
+
+# Takari Maven Wrapper
+/.mvn/
+/mvnw.cmd
+/mvnw
